@@ -85,7 +85,7 @@ mcp_servers:
 ## Development
 
 ```bash
-git clone https://github.com/taku-ops/mcp-feed.git
+git clone https://github.com/autonomics-build/mcp-feed.git
 cd mcp-feed
 npm install
 node index.js

@@ -26,10 +26,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taku-ops/mcp-feed.git"
+    "url": "git+https://github.com/autonomics-build/mcp-feed.git"
   },
   "bugs": {
-    "url": "https://github.com/taku-ops/mcp-feed/issues"
+    "url": "https://github.com/autonomics-build/mcp-feed/issues"
   },
   "homepage": "https://autonomics.build/daily/"
 }
