@@ -1,6 +1,6 @@
 # @autonomics/mcp-feed
 
-[![smithery badge](https://smithery.ai/badge/taku-ops/feed)](https://smithery.ai/servers/taku-ops/feed)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.autonomics-build/mcp-feed)](https://lightnow.ai/servers/io.github.autonomics-build/mcp-feed)
 
 MCP server for the [Agent Edge](https://autonomics.build/daily/) daily feed — exposes TOON-format daily content as discoverable MCP resources for any MCP-compatible agent.
 
